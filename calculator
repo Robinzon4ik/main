@@ -1,0 +1,2159 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-P7P7K55');</script>
+    <!-- End Google Tag Manager -->
+
+    <meta charset="utf-8" />
+        <title></title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="csrf-token" content="efBA1sQDSquzj8Tniht1RZMuoUTlHzXnfu5AdMMk">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link rel="icon" type="image/vnd.microsoft.icon" href="https://interlogisticllc.com/assets/front/img/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="https://interlogisticllc.com/assets/front/img/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;subset=cyrillic" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap&subset=cyrillic" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap&subset=cyrillic,cyrillic-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans:100,300,400,500,700&amp;subset=cyrillic,cyrillic-ext" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/global.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/autoload/highdpi.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/autoload/responsive-tables.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/autoload/structure.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/modules/blocklanguages/blocklanguages.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/modules/blocktopmenu/css/blocktopmenu.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/modules/blocktopmenu/css/superfish-modified.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/product_list.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/modules/homefeatured/homefeatured.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/modules/themeconfigurator/css/hooks.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/product_list_h1.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/homefeatured_1.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/homefeatured_2.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/homefeatured_3.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/cms.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/autoload/uniform.default.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/css/modules/blocklayered/blocklayered.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/dest/css/form_style.css">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/js/jquery/ui/themes/base/jquery.ui.all.css">
+    <link rel="stylesheet" href="https://interlogisticllc.com/assets/front/js/jquery/plugins/fancybox/jquery.fancybox.css" type="text/css" media="all">
+    
+</head>
+
+<body id="" class="">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P7P7K55" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="bgtopmenu">
+    <div class="container">
+        <div class="row topmenu left col-sm-12 col-md-8">
+            <ul>
+                <li><a href="https://interlogisticllc.com/info/repair" title="Ремонт">Ремонт</a></li>
+                <li><a href="https://interlogisticllc.com/info/delivery" title="Доставка">Доставка</a></li>
+                <li><a href="https://interlogisticllc.com/info/customs" title="Растаможка">Растаможка</a></li>
+                <li><a href="https://interlogisticllc.com/info/certification" title="Сертификация">Сертификация</a></li>
+                <li class="calc-head"><a href="https://interlogisticllc.com/calculator" title="Калькулятор">Калькулятор</a></li>
+                <li><a href="https://interlogisticllc.com/info/tracking" title="Отслеживание">Отслеживание</a></li>
+                <li><a href="https://interlogisticllc.com/info/partners" title="Друзья и партнеры по доставка авто из США">Партнеры</a></li>
+                <li><a href="https://my.interlogisticllc.com/new-carfax/" title="CARFAX" target="_blank">CARFAX</a></li>
+            </ul>
+        </div>
+        <div class="row topmenu right col-sm-12 col-md-4">
+            <ul>
+                <li><a href="https://my.interlogisticllc.com/" title="Вход" target="_blank">Вход</a></li>
+                <li><a href="https://shipping.interlogisticllc.com/" title="Сотрудничество" target="_blank">Сотрудничество</a></li>
+                <li><a href="https://interlogisticllc.com/info/contacts" title="Контакты">Контакты</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class=" main-mnu">
+    <div class="container">
+
+        <div class="row header">
+            <div class="logo col-sm-3 col-md-2">
+                <a href="https://interlogisticllc.com" title="Interlogistic LLC">
+                    <img class="logo img-responsive" src="https://interlogisticllc.com/assets/front/img/header-logo.jpg" alt="Interlogistic LLC" title="Interlogistic LLC"/>
+                </a>
+            </div>
+            <div class="menu hidden-xs col-sm-9 col-md-8">
+                <!-- Menu -->
+                <div id="block_top_menu" class="sf-contener clearfix">
+                    <ul class="sf-menu clearfix menu-content ">
+                        <li>
+                            <a href="https://interlogisticllc.com/calculator" title="Калькулятор">Калькулятор</a>
+                        </li>
+                                                    <li class="">
+    <a href="https://interlogisticllc.com/c-vygodnye-loty" title="Выгодные лоты" class="sf-with-ul">Выгодные лоты</a>
+    </li>
+<li class="have_submenu">
+    <a href="https://interlogisticllc.com/c-avto-v-nalicii" title="Авто в наличии" class="sf-with-ul">Авто в наличии</a>
+            <ul class="submenu-container clearfix first-in-line-xs">
+                            <li>
+                    <a href="https://interlogisticllc.com/c-v-processe-dostavki" title="В процессе доставки">В процессе доставки</a>
+                </li>
+                            <li>
+                    <a href="https://interlogisticllc.com/c-v-nalicii-bez-remonta" title="В наличии (без ремонта)">В наличии (без ремонта)</a>
+                </li>
+                            <li>
+                    <a href="https://interlogisticllc.com/c-v-nalicii-vosstanovlennye" title="В наличии (восстановленные)">В наличии (восстановленные)</a>
+                </li>
+                    </ul>
+    </li>
+<li class="">
+    <a href="https://interlogisticllc.com/c-istoriya-pokupok" title="История покупок" class="sf-with-ul">История покупок</a>
+    </li>
+                                                <li class="sf-search noBack" style="float:right">
+                            <form id="searchbox" action="https://interlogisticllc.com/search" method="GET">
+                                <p>
+                                    <input type="text" name="q" value="" placeholder="Поиск">
+                                    <button type="submit"><i class="fas fa-search"></i></button>
+                                </p>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <!--/ Menu -->
+            </div>
+            <div class="contact col-sm-3 col-md-2 col-xs-12">
+                <span class="call">
+                    <a href="tel:+380663211105" title="+38 066 321 1105" class="call-phone">066 321 1105</a>
+                </span>
+            </div>
+            <div class="cat-title"></div>
+        </div>
+    </div>
+</div>
+<!-- Mobile Menu-->
+<div class="mob-menu-overlay"></div>
+<div class="mob-mnu">
+    <div class="mob-close">
+        <i class="fas fa-times"></i>
+    </div>
+    <div class="mob-block mob-block1">
+        <div class="logo">
+            <a href="https://interlogisticllc.com" title="{$shop_name|escape:'html':'UTF-8'}">
+                <img class="logo img-responsive" src="https://interlogisticllc.com/assets/front/img/header-logo.jpg" alt="Interlogistic LLC" title="Interlogistic LLC"/>
+            </a>
+        </div>
+    </div>
+    <div class="mob-block mob-block2">
+        <form id="searchbox" action="https://interlogisticllc.com/search" method="GET">
+            <p>
+
+                <input type="text" name="q" value="" placeholder="Поиск">
+                <button type="submit"><i class='fas fa-search'></i></button>
+            </p>
+        </form>
+    </div>
+    <div class="mob-block mob-block3">
+        <div id="block_top_menu" class="sf-contener clearfix">
+            <ul class="sf-menu clearfix menu-content">
+                <li>
+                    <a href="https://interlogisticllc.com/calculator" title="Калькулятор">Калькулятор</a>
+                </li>
+                                    <li class="">
+    <a href="https://interlogisticllc.com/c-vygodnye-loty" title="Выгодные лоты" class="sf-with-ul">Выгодные лоты</a>
+    </li>
+<li class="have_submenu">
+    <a href="https://interlogisticllc.com/c-avto-v-nalicii" title="Авто в наличии" class="sf-with-ul">Авто в наличии</a>
+            <ul class="submenu-container clearfix first-in-line-xs">
+                            <li>
+                    <a href="https://interlogisticllc.com/c-v-processe-dostavki" title="В процессе доставки">В процессе доставки</a>
+                </li>
+                            <li>
+                    <a href="https://interlogisticllc.com/c-v-nalicii-bez-remonta" title="В наличии (без ремонта)">В наличии (без ремонта)</a>
+                </li>
+                            <li>
+                    <a href="https://interlogisticllc.com/c-v-nalicii-vosstanovlennye" title="В наличии (восстановленные)">В наличии (восстановленные)</a>
+                </li>
+                    </ul>
+    </li>
+<li class="">
+    <a href="https://interlogisticllc.com/c-istoriya-pokupok" title="История покупок" class="sf-with-ul">История покупок</a>
+    </li>
+                            </ul>
+        </div>
+    </div>
+    <div class="mob-block mob-block4">
+        <ul>
+            <li><a href="https://interlogisticllc.com/info/repair" title="Ремонт">Ремонт</a></li>
+            <li><a href="https://interlogisticllc.com/info/delivery" title="Доставка">Доставка</a></li>
+            <li><a href="https://interlogisticllc.com/info/customs" title="Растаможка">Растаможка</a></li>
+            <li><a href="https://interlogisticllc.com/info/certification" title="Сертификация">Сертификация</a></li>
+            <li><a href="https://interlogisticllc.com/calculator" title="Калькулятор">Калькулятор</a></li>
+            <li><a href="https://interlogisticllc.com/info/tracking" title="Отслеживание">Отслеживание</a></li>
+            <li><a href="https://interlogisticllc.com/info/partners" title="Друзья и партнеры по доставка авто из США">Партнеры</a></li>
+            <li><a href="https://my.interlogisticllc.com/new-carfax/" title="CARFAX" target="_blank">CARFAX</a></li>
+        </ul>
+    </div>
+    <div class="mob-block mob-block5">
+        <ul>
+            <li><a href="https://my.interlogisticllc.com/" target="_blank">Вход</a></li>
+            <li><a href="https://delivery.interlogisticllc.com/" target="_blank">Сотрудничество</a></li>
+            <li><a href="https://interlogisticllc.com/info/contacts">Контакты</a></li>
+        </ul>
+    </div>
+</div>
+<!-- End Mobile Menu-->
+
+<div id="page">
+    <div class="columns-container">
+        <div id="columns" class="">
+                <div class="container">
+        <div class="breadcrumb clearfix">
+    <a href="https://interlogisticllc.com" title="Главная">Главная</a>
+            <span class="navigation-pipe">/</span>
+                    Калькулятор
+            </div>
+        <div id="center_column" class="center_column col-xs-12 col-sm-12">
+            <div class="rte">
+                <h1>Калькулятор - расчет доставки авто из&nbsp;США</h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="calc-wrap">
+    <div class="container">
+        <div class="row structure calculator">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="calc">
+                    <div class="title h2">Калькулятор</div>
+
+                    <form action="#" enctype="multipart/form-data" id="form_calc">
+                        <input type="hidden" name="_token" value="efBA1sQDSquzj8Tniht1RZMuoUTlHzXnfu5AdMMk">                        <div class="row">
+                            <div class="col-xs-12 col-sm-4 col-md-5 left_part">
+                                <div class="title right">Стоимость в Украине</div>
+                                <p class="notice hidden"></p>
+                                <div class="half first"><label for="lot_price">Стоимость лота, $</label>
+                                    
+                                    <input class="calc-input" type="text" name="lot_price" id="lot_price" value="1000">
+                                </div>
+                                <div class="half"><label for="type">Тип транс-го средства</label>
+                                    <select class="calc-select" name="vehicle_type" id="type">
+                                                                                    <option value="passenger">Легковой</option>
+                                                                                    <option value="crossover">Кроссовер</option>
+                                                                                    <option value="pickup">Пикап / Микроавтобус</option>
+                                                                                    <option value="motorcycle">Мотоцикл</option>
+                                                                            </select>
+                                </div>
+                                <div class="half first"><label for="auction">Аукцион</label>
+                                    <select class="calc-select" name="auction" id="auction">auctions
+                                                                                    <option value="copart">Copart</option>
+                                                                                    <option value="iaai">Iaai</option>
+                                                                            </select>
+                                </div>
+                                <div class="half"><label for="auction_state">Штат аукциона</label>
+                                    <select class="calc-select" name="auction_state" id="auction_state">
+                                                                                    <option value="ABILENE TX">ABILENE TX</option>
+                                                                                    <option value="ALBANY NY">ALBANY NY</option>
+                                                                                    <option value="ALBUQUERQUE NM">ALBUQUERQUE NM</option>
+                                                                                    <option value="ALTOONA PA">ALTOONA PA</option>
+                                                                                    <option value="AMARILLO TX">AMARILLO TX</option>
+                                                                                    <option value="ANDREWS TX">ANDREWS TX</option>
+                                                                                    <option value="ATLANTA GA">ATLANTA GA</option>
+                                                                                    <option value="AUSTIN TX">AUSTIN TX</option>
+                                                                                    <option value="BALTIMORE MD">BALTIMORE MD</option>
+                                                                                    <option value="BATON ROUGE LA">BATON ROUGE LA</option>
+                                                                                    <option value="BILLINGS MT">BILLINGS MT</option>
+                                                                                    <option value="BIRMINHAM AL">BIRMINHAM AL</option>
+                                                                                    <option value="BOISE - ID">BOISE - ID</option>
+                                                                                    <option value="CANDIA - NH">CANDIA - NH</option>
+                                                                                    <option value="CHAMBERSBURG - PA">CHAMBERSBURG - PA</option>
+                                                                                    <option value="CHARLESTON - SC">CHARLESTON - SC</option>
+                                                                                    <option value="CHARLESTON - WV">CHARLESTON - WV</option>
+                                                                                    <option value="CHICAGO - IL">CHICAGO - IL</option>
+                                                                                    <option value="CHINA GROVE - NC">CHINA GROVE - NC</option>
+                                                                                    <option value="CLEVELAND - OH">CLEVELAND - OH</option>
+                                                                                    <option value="COLORADO SPRINGS - CO">COLORADO SPRINGS - CO</option>
+                                                                                    <option value="COLUMBIA - SC">COLUMBIA - SC</option>
+                                                                                    <option value="COLUMBUS - OH">COLUMBUS - OH</option>
+                                                                                    <option value="CORPUS CHRISTI - TX">CORPUS CHRISTI - TX</option>
+                                                                                    <option value="CULPEPER - VA">CULPEPER - VA</option>
+                                                                                    <option value="DALLAS - TX">DALLAS - TX</option>
+                                                                                    <option value="DANVILLE - VA">DANVILLE - VA</option>
+                                                                                    <option value="DAVENPORT - IA">DAVENPORT - IA</option>
+                                                                                    <option value="DAYTON - OH">DAYTON - OH</option>
+                                                                                    <option value="DENVER - CO">DENVER - CO</option>
+                                                                                    <option value="DES MOINES - IA">DES MOINES - IA</option>
+                                                                                    <option value="DETROIT - MI">DETROIT - MI</option>
+                                                                                    <option value="EL PASO - TX">EL PASO - TX</option>
+                                                                                    <option value="EUGEN - OR">EUGEN - OR</option>
+                                                                                    <option value="EXETER - RI">EXETER - RI</option>
+                                                                                    <option value="FAYETTEVILLE - AR">FAYETTEVILLE - AR</option>
+                                                                                    <option value="FLINT - MI">FLINT - MI</option>
+                                                                                    <option value="FORT WAYNE - IN">FORT WAYNE - IN</option>
+                                                                                    <option value="FREMONT - CA">FREMONT - CA</option>
+                                                                                    <option value="FRESNO - CA">FRESNO - CA</option>
+                                                                                    <option value="FT. PIERCE - FL">FT. PIERCE - FL</option>
+                                                                                    <option value="FT. WORHT - TX">FT. WORHT - TX</option>
+                                                                                    <option value="GLASSBORO EAST - NJ">GLASSBORO EAST - NJ</option>
+                                                                                    <option value="GRAHAM - WA">GRAHAM - WA</option>
+                                                                                    <option value="GREER - SC">GREER - SC</option>
+                                                                                    <option value="HAMMOND - IN">HAMMOND - IN</option>
+                                                                                    <option value="HAMPTON - VA">HAMPTON - VA</option>
+                                                                                    <option value="HARISBURG - PA">HARISBURG - PA</option>
+                                                                                    <option value="HARTFORD - CT">HARTFORD - CT</option>
+                                                                                    <option value="HAYWARD - CA">HAYWARD - CA</option>
+                                                                                    <option value="HELENA - MT">HELENA - MT</option>
+                                                                                    <option value="HONOLULU - HI">HONOLULU - HI</option>
+                                                                                    <option value="HOUSTON - TX">HOUSTON - TX</option>
+                                                                                    <option value="INDIANAPOLIS - IN">INDIANAPOLIS - IN</option>
+                                                                                    <option value="JACKSON - MS">JACKSON - MS</option>
+                                                                                    <option value="JACKSONVILLE EAST - FL">JACKSONVILLE EAST - FL</option>
+                                                                                    <option value="KANSAS CITY - KS">KANSAS CITY - KS</option>
+                                                                                    <option value="KNOXVILLE - TN">KNOXVILLE - TN</option>
+                                                                                    <option value="LAS VEGAS - NV">LAS VEGAS - NV</option>
+                                                                                    <option value="LEXINGTON EAST - KY">LEXINGTON EAST - KY</option>
+                                                                                    <option value="LINCOLN - NE">LINCOLN - NE</option>
+                                                                                    <option value="LITTLE ROCK - AR">LITTLE ROCK - AR</option>
+                                                                                    <option value="LONG ISLAND - NY">LONG ISLAND - NY</option>
+                                                                                    <option value="LONGVIEW - TX">LONGVIEW - TX</option>
+                                                                                    <option value="LOS ANGELES - CA">LOS ANGELES - CA</option>
+                                                                                    <option value="LOUISVILLE - KY">LOUISVILLE - KY</option>
+                                                                                    <option value="LUFKIN - TX">LUFKIN - TX</option>
+                                                                                    <option value="LYMAN - ME">LYMAN - ME</option>
+                                                                                    <option value="MARTINEZ - CA">MARTINEZ - CA</option>
+                                                                                    <option value="MCALLEN - TX">MCALLEN - TX</option>
+                                                                                    <option value="MEBANE - NC">MEBANE - NC</option>
+                                                                                    <option value="MEMPHIS - TN">MEMPHIS - TN</option>
+                                                                                    <option value="MIAMI - FL">MIAMI - FL</option>
+                                                                                    <option value="MILWAUKEE - WI">MILWAUKEE - WI</option>
+                                                                                    <option value="MINNEAPOLIS - MN">MINNEAPOLIS - MN</option>
+                                                                                    <option value="MOBILE - AL">MOBILE - AL</option>
+                                                                                    <option value="MONTGOMERY - AL">MONTGOMERY - AL</option>
+                                                                                    <option value="NASHVILLE - TN">NASHVILLE - TN</option>
+                                                                                    <option value="NEW ORLEANS - LA">NEW ORLEANS - LA</option>
+                                                                                    <option value="NEWBURGH - NY">NEWBURGH - NY</option>
+                                                                                    <option value="NORTH BOSTON - MA">NORTH BOSTON - MA</option>
+                                                                                    <option value="NORTH SEATTLE - WA">NORTH SEATTLE - WA</option>
+                                                                                    <option value="OCALA - FL">OCALA - FL</option>
+                                                                                    <option value="OKLAHOMA CITY - OK">OKLAHOMA CITY - OK</option>
+                                                                                    <option value="ORLANDO - FL">ORLANDO - FL</option>
+                                                                                    <option value="PASCO - WA">PASCO - WA</option>
+                                                                                    <option value="PEORIA - IL">PEORIA - IL</option>
+                                                                                    <option value="PHILADELPHIA - PA">PHILADELPHIA - PA</option>
+                                                                                    <option value="PHOENIX - AZ">PHOENIX - AZ</option>
+                                                                                    <option value="PITTSBURG - PA">PITTSBURG - PA</option>
+                                                                                    <option value="PORTLAND - OR">PORTLAND - OR</option>
+                                                                                    <option value="PUNTA GORDA - FL">PUNTA GORDA - FL</option>
+                                                                                    <option value="RALEIGH - NC">RALEIGH - NC</option>
+                                                                                    <option value="RANCHO CUCAMONGA - CA">RANCHO CUCAMONGA - CA</option>
+                                                                                    <option value="RENO - NV">RENO - NV</option>
+                                                                                    <option value="RICHMOND - VA">RICHMOND - VA</option>
+                                                                                    <option value="ROCHESTER - NY">ROCHESTER - NY</option>
+                                                                                    <option value="SACRAMENTO - CA">SACRAMENTO - CA</option>
+                                                                                    <option value="SALT LAKE CITY - UT">SALT LAKE CITY - UT</option>
+                                                                                    <option value="SAN ANTONIO - TX">SAN ANTONIO - TX</option>
+                                                                                    <option value="SAN BERNARDINO- CA">SAN BERNARDINO- CA</option>
+                                                                                    <option value="SAN DIEGO - CA">SAN DIEGO - CA</option>
+                                                                                    <option value="SAN JOSE - CA">SAN JOSE - CA</option>
+                                                                                    <option value="SAVANNAH - GA">SAVANNAH - GA</option>
+                                                                                    <option value="SCRANTON - PA">SCRANTON - PA</option>
+                                                                                    <option value="SEAFORD - DE">SEAFORD - DE</option>
+                                                                                    <option value="SHREVEPORT - LA">SHREVEPORT - LA</option>
+                                                                                    <option value="SIKESTON - MO">SIKESTON - MO</option>
+                                                                                    <option value="SO SACRAMENTO - CA">SO SACRAMENTO - CA</option>
+                                                                                    <option value="SOMERVILLE - NJ">SOMERVILLE - NJ</option>
+                                                                                    <option value="SOUTH BOSTON - MA">SOUTH BOSTON - MA</option>
+                                                                                    <option value="SOUTHERN ILLINOIS - IL">SOUTHERN ILLINOIS - IL</option>
+                                                                                    <option value="SPOKANE - WA">SPOKANE - WA</option>
+                                                                                    <option value="SPRINGFIELD - MO">SPRINGFIELD - MO</option>
+                                                                                    <option value="ST. CLOUD - MN">ST. CLOUD - MN</option>
+                                                                                    <option value="ST. LOUIS - MO">ST. LOUIS - MO</option>
+                                                                                    <option value="SUN VALLEY - CA">SUN VALLEY - CA</option>
+                                                                                    <option value="SYRACUSE - NY">SYRACUSE - NY</option>
+                                                                                    <option value="TALLAHASSEE - FL">TALLAHASSEE - FL</option>
+                                                                                    <option value="TAMPA SOUTH - FL">TAMPA SOUTH - FL</option>
+                                                                                    <option value="TANNER - AL">TANNER - AL</option>
+                                                                                    <option value="TIFTON - GA">TIFTON - GA</option>
+                                                                                    <option value="TRENTON - NJ">TRENTON - NJ</option>
+                                                                                    <option value="TUCSON - AZ">TUCSON - AZ</option>
+                                                                                    <option value="TULSA - OK">TULSA - OK</option>
+                                                                                    <option value="VALLEJO - CA">VALLEJO - CA</option>
+                                                                                    <option value="VAN NUYS - CA">VAN NUYS - CA</option>
+                                                                                    <option value="WACO - TX">WACO - TX</option>
+                                                                                    <option value="WALTON - KY">WALTON - KY</option>
+                                                                                    <option value="WASHINGTON DC - MD">WASHINGTON DC - MD</option>
+                                                                                    <option value="WEBSTER - NH">WEBSTER - NH</option>
+                                                                                    <option value="WEST PALM BEACH - FL">WEST PALM BEACH - FL</option>
+                                                                                    <option value="WEST WARREN - MA">WEST WARREN - MA</option>
+                                                                                    <option value="WHEELING - IL">WHEELING - IL</option>
+                                                                                    <option value="WICHITA - KS">WICHITA - KS</option>
+                                                                                    <option value="YORK HAVEN - PA">YORK HAVEN - PA</option>
+                                                                            </select>
+                                </div>
+                                <div class="clearfix"></div>
+                                <label for="port">Из порта в США</label>
+                                <select class="calc-select" name="departure_harbour_state" id="port">
+                                                                            <option value="TX">TX</option>
+                                                                            <option value="FL">FL</option>
+                                                                    </select>
+                                <label for="destination_country">Страна назначения</label>
+                                <select class="calc-select" name="destination_country" id="destination_country">
+                                                                            <option value="Украина">Украина</option>
+                                                                            <option value="Литва">Литва</option>
+                                                                    </select>
+                                <label for="destination_city">Порт назначения</label>
+                                <select class="calc-select" name="destination_harbour_city" id="destination_city">
+                                                                            <option value="Одесса">Одесса</option>
+                                                                    </select>
+                                <label for="service">Услуги InterLogistic</label>
+                                <select class="calc-select" name="service" id="service">
+                                    <option></option>
+                                                                            <option value="1">Под ключ Одесса</option>
+                                                                            <option value="2">Под ключ в Ваш город</option>
+                                                                    </select>
+                                <div id="calc_cities" style="display: none;">
+                                    <label for="calc_city">Укажите Ваш город</label>
+                                    <select class="calc-select" name="destination_city" id="calc_city">
+                                        <option></option>
+                                                                                    <option value="Киев">Киев</option>
+                                                                                    <option value="Полтава">Полтава</option>
+                                                                                    <option value="Харьков">Харьков</option>
+                                                                            </select>
+                                </div>
+                                <div class="info-txt">
+                                    * Все тарифы актуальны на время расчета и могут быть изменены на момент отправки в соответствии с изменениями тарифов грузоотправителей. Стоимость доставки
+                                    указана
+                                    для одного автомобиля, при погрузке 3-х автомобилей типа седана 40 футовый контейнер, включая загрузку контейнера.<br>
+                                    ** Страхование от полной потери контейнера во время морской перевозки.
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-8 col-md-7 right_part">
+                                <div class="title subtitle">Только растаможка</div>
+                                <input class="res-input" readonly type="text" name="lot_price_res" id="lot_price_res" value="0">
+                                <label for="lot_price_res">Стоимость лота</label><br/>
+
+                                <input class="res-input" readonly type="text" name="auction_fee" id="auction_fee" value="0">
+                                <label for="auction_fee">Аукционный сбор</label><br/>
+
+                                <input class="res-input" readonly type="text" name="us_export_clearance" id="us_export_clearance" value="0">
+                                <label for="us_export_clearance">Экспортное оформление США</label><br/>
+
+                                <input class="res-input" readonly type="text" name="delivery_usa" id="delivery_usa" value="0">
+                                <label for="delivery_usa">Доставка в порт (суша, по США)</label><br/>
+
+
+                                <input class="res-input" readonly type="text" name="delivery_global" id="delivery_global" value="0">
+                                <label for="delivery_global">Международная доставка (море)</label><br/>
+
+                                <input class="res-input" readonly type="text" name="delivery_ukr" id="delivery_ukr" value="0">
+                                <label for="delivery_ukr">Доставка по Украине</label><br/>
+
+                                <div class="check_group_block">
+                                    <span class="check_group grey">
+                                        <input class="res-input with_check" readonly type="text" name="total_loss_insurance_val" id="total_loss_insurance_val" value="0">
+                                        <input class="res-check" readonly type="checkbox" name="total_loss_insurance" id="total_loss_insurance" value="1">
+                                        <label class="have_check" for="container_insurance_switch">Страховка от полной гибели**</label>
+                                    </span>
+                                    <br/>
+                                    <span class="check_group grey">
+                                        <input class="res-input with_check" readonly type="text" name="damage_insurance_val" id="damage_insurance_val" value="0">
+                                        <input class="res-check" readonly type="checkbox" name="damage_insurance" id="damage_insurance" value="1">
+                                        <label class="have_check" for="damage_insurance_switch">Страховка авто от повреждений</label>
+                                    </span>
+                                    <br/>
+                                    <span class="check_group ukraine_block grey">
+                                        <input class="res-input with_check" readonly type="text" name="broker_and_forwarder_val" id="broker_and_forwarder_val" value="0">
+                                        <input class="res-check" readonly type="checkbox" name="broker_and_forwarder" id="broker_and_forwarder" value="1">
+                                        <label class="have_check" for="broker_switch">Услуги брокера и экспедитора</label>
+                                        </span>
+                                    <br/>
+                                    <span class="check_group grey">
+                                        <input class="res-input with_check" readonly type="text" name="repair_support_val" id="repair_support_val" value="0">
+                                        <input class="res-check" readonly type="checkbox" name="repair_support" id="repair_support" value="1">
+                                        <label class="have_check" for="repairs_switch">Сопровождение по ремонту и закупка зап.частей</label>
+                                        </span>
+                                    <br/>
+                                    <span class="check_group ukraine_block grey">
+                                        <input class="res-input with_check" readonly type="text" name="customs_fee_val" id="customs_fee_val" value="0">
+                                        <input class="res-check" type="checkbox" name="customs_fee" id="customs_fee" value="1">
+                                        <label class="have_check" for="customs_fee_switch">Таможенный платеж</label>
+                                        </span>
+                                    <br/>
+
+                                    <input class="res-input" readonly type="text" name="service_res" id="service_res" value="0">
+                                    <label for="service_res">Комиссия InterLogistic</label><br/><br/></div>
+
+                                <input class="res-input-total" readonly type="text" name="total_res" id="total_res" value="0">
+                                <label for="total_res">Итоговая цена</label><br/><br/>
+                                <input type="hidden" name="calc_price" value="1">
+                                <button type="button" class="btn buttomlink orderlink" onclick="productForm(60);">Заказать авто</button>
+                                <a class="rec_link">Скопировать ссылку</a>
+                                <span class="copy_info" id="manage_info" style="display: block;"></span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="calc_overlay hidden"></div>
+                            <div class="calc calc_customs hidden">
+                                <span class="cross" title="Закрыть окно"></span>
+                                <div class="title">Расчет таможенных платежей</div>
+                                <label for="country_customs">Страна назначения</label>
+                                <select class="calc-customs-select" name="country_customs" id="country_customs">
+                                    <option value="Украина">Украина</option>
+                                    <option value="Литва">Литва</option>
+                                </select>
+                                <input type="hidden" name="city_customs" id="city_customs" value="">
+                                <label for="year_customs">Год выпуска авто</label>
+                                <select class="calc-customs-select" name="vehicle_year" id="year_customs">
+                                    )
+                                    <option value="2021" selected=&quot;selected&quot;>2021</option>
+                                    )
+                                    <option value="2020" >2020</option>
+                                    )
+                                    <option value="2019" >2019</option>
+                                    )
+                                    <option value="2018" >2018</option>
+                                    )
+                                    <option value="2017" >2017</option>
+                                    )
+                                    <option value="2016" >2016</option>
+                                    )
+                                    <option value="2015" >2015</option>
+                                    )
+                                    <option value="2014" >2014</option>
+                                    )
+                                    <option value="2013" >2013</option>
+                                    )
+                                    <option value="2012" >2012</option>
+                                    )
+                                    <option value="2011" >2011</option>
+                                    )
+                                    <option value="2010" >2010</option>
+                                    )
+                                    <option value="2009" >2009</option>
+                                    )
+                                    <option value="2008" >2008</option>
+                                    )
+                                    <option value="2007" >2007</option>
+                                    )
+                                    <option value="2006" >2006</option>
+                                    )
+                                    <option value="2005" >2005</option>
+                                    )
+                                    <option value="2004" >2004</option>
+                                    )
+                                    <option value="2003" >2003</option>
+                                    )
+                                    <option value="2002" >2002</option>
+                                    )
+                                    <option value="2001" >2001</option>
+                                    )
+                                    <option value="2000" >2000</option>
+                                                                    </select>
+                                <label for="type_engine_customs">Тип двигателя</label>
+                                <select class="calc-customs-select" name="vehicle_engine_type_id" id="type_engine_customs" data-all="Объем двигателя, куб см" data-e="Батарея, кВт/ч">
+                                    <option value="1">Бензин</option>
+                                    <option value="2">Дизель</option>
+                                    <option value="3">Гибрид</option>
+                                    <option value="4">Электро</option>
+                                </select>
+
+                                <label for="vehicle_engine_volume">Объем двигателя, куб см</label>
+                                <input class="calc-customs-input" type="text" name="vehicle_engine_volume" id="vehicle_engine_volume" value="1400">
+
+                                <div class="block-info">
+                                    <input class="res-customs-input" readonly type="text" name="tax_res" id="tax_res" value="">
+                                    <label for="tax_res">НДС</label>
+
+                                    <input class="res-customs-input" readonly type="text" name="tollage_res" id="tollage_res" value="">
+                                    <label for="tollage_res">Пошлина</label>
+
+                                    <input class="res-customs-input" readonly type="text" name="excise_res" id="excise_res" value="">
+                                    <label for="excise_res">Акцизный сбор</label>
+
+                                    <input class="res-customs-input" readonly type="text" name="total_customs_res" id="total_customs_res" value="">
+                                    <label for="total_customs_res">Итоговая цена</label>
+
+
+                                    <input class="res-input" readonly type="text" name="pension_fund_res" id="pension_fund_res" value="">
+                                    <label for="pension_fund_res">Пенсионный фонд</label>
+                                    <span class="delivery_global">в расчет не включен</span>
+                                </div>
+                                <strong class="senk">Рассчитать</strong>
+                            </div>
+                        </div>
+                    </form>
+
+                    <textarea id="calc_copy" style="display: none"></textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+        </div>
+    </div>
+</div>
+
+<div class="killercontact-wrap">
+    <div class="container">
+        <div class="row structure killercontact">
+            <div class="col-md-4 col-sm-6 col-xs-12 killcont-item item-left">
+                <div class="killcont-title">Подписывайся</div>
+                <div class="killcont-txt">Будь в курсе: стоимости авто, доставки, цен, особенностей ремонта и многое другое.</div>
+                <div class="killcont-links">
+                    <a href="https://www.instagram.com/interlogisticllc/" title="Instagram" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a href="https://t.me/interlogistic" title="Telegram" target="_blank"><i class="fab fa-telegram-plane"></i></a>
+                    <a href="https://www.youtube.com/channel/UChAkc3LiLTaAVANuCX_a1tA" title="Youtube" target="_blank"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.facebook.com/interlogistic.kharkov" title="Facebook" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                </div>
+            </div>
+            <div class="col-sm-4 hidden-sm hidden-xs col-xs-12 ">
+                <a href="https://interlogisticllc.com" title="{$shop_name|escape:'html':'UTF-8'}">
+                    <img class="logo img-responsive" src="https://interlogisticllc.com/assets/front/img/big-logo.png" alt="Interlogistic LLC" title="Interlogistic LLC"/>
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-12 killcont-item item-right">
+                <div class="killcont-title">Консультируйся</div>
+                <div class="killcont-txt">Получай ответы от профессионалов без "воды" в привычном для тебя формате.</div>
+                <div class="killcont-links">
+                    <a href="https://teleg.one/interlogistic_bot" title="Telegram" target="_blank"><i class="fab fa-telegram-plane"></i></a>
+                    <a href="https://is.gd/ekD0Xn" title="Viber" target="_blank"><i class="fab fa-viber"></i></a>
+                    <a href="https://api.whatsapp.com/send?phone=380931327777&text=&source=&data=" title="Whatsapp" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row featured_1 blue">
+        <div class="count col-md-4 col-xs-3">77</div>
+        <div class="col-md-8 col-xs-9">
+            <h2>Выкупленных авто на аукционах США</h2>
+            <p>Ежедневно мы подбираем авто на аукционах США для наших клиентов и диллеров.</p>
+            <p>Работаем прозрачно и всегда фиксируем стоимость авто для клиента на всех этапах доставки авто.</p>
+        </div>
+    </div>
+    <!-- MODULE Home Featured Products #1-->
+    <div id="featured-products-h3" class="clearfix">
+        <div class="block_content">
+            <ul class="clearfix">
+                                    <li class="h3_block_product first_item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div class="col-md-4 col-xs-5 col-sm-4">
+        <a href="https://interlogisticllc.com/c-v-processe-dostavki/2876-2018-subaru-impreza-premium-pl-2608" title="2018 SUBARU IMPREZA PREMIUM PL - 2608">
+            <img src="https://interlogisticllc.com/storage/images/100x75/87790aff45659e79281b73e3ae0c9f90.jpg" alt="2018 SUBARU IMPREZA PREMIUM PL - 2608" title="2018 SUBARU IMPREZA PREMIUM PL - 2608"/>
+        </a>
+    </div>
+    <div class="col-md-8 col-xs-7 col-sm-8">
+        <h5 class="s_title_block">
+            <a href="https://interlogisticllc.com/c-v-processe-dostavki/2876-2018-subaru-impreza-premium-pl-2608" title="2018 SUBARU IMPREZA PREMIUM PL - 2608">2018 SUBARU IMPREZA PREMIUM PL - 2608</a>
+        </h5>
+        <div>
+            <p class="price_container">
+                <span class="date">
+                    Выкуплен
+                    <br>
+                    
+                </span>
+                <span class="price">$ 8500</span>
+            </p>
+        </div>
+    </div>
+</li>
+                                    <li class="h3_block_product item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div class="col-md-4 col-xs-5 col-sm-4">
+        <a href="https://interlogisticllc.com/c-v-processe-dostavki/2853-2020-nissan-versa-sv" title="2020 NISSAN VERSA SV">
+            <img src="https://interlogisticllc.com/storage/images/100x75/c95ea0039f78a6a3ca8c0fbcea710212.jpg" alt="2020 NISSAN VERSA SV" title="2020 NISSAN VERSA SV"/>
+        </a>
+    </div>
+    <div class="col-md-8 col-xs-7 col-sm-8">
+        <h5 class="s_title_block">
+            <a href="https://interlogisticllc.com/c-v-processe-dostavki/2853-2020-nissan-versa-sv" title="2020 NISSAN VERSA SV">2020 NISSAN VERSA SV</a>
+        </h5>
+        <div>
+            <p class="price_container">
+                <span class="date">
+                    Выкуплен
+                    <br>
+                    
+                </span>
+                <span class="price">$ 9900</span>
+            </p>
+        </div>
+    </div>
+</li>
+                                    <li class="h3_block_product item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div class="col-md-4 col-xs-5 col-sm-4">
+        <a href="https://interlogisticllc.com/c-v-nalicii-vosstanovlennye/2852-2014-subaru-forester" title="2014 SUBARU FORESTER">
+            <img src="https://interlogisticllc.com/storage/images/100x75/17d796a6cbba8aee003b721e4c6dbd41.jpg" alt="2014 SUBARU FORESTER" title="2014 SUBARU FORESTER"/>
+        </a>
+    </div>
+    <div class="col-md-8 col-xs-7 col-sm-8">
+        <h5 class="s_title_block">
+            <a href="https://interlogisticllc.com/c-v-nalicii-vosstanovlennye/2852-2014-subaru-forester" title="2014 SUBARU FORESTER">2014 SUBARU FORESTER</a>
+        </h5>
+        <div>
+            <p class="price_container">
+                <span class="date">
+                    Выкуплен
+                    <br>
+                    
+                </span>
+                <span class="price">$ 14500</span>
+            </p>
+        </div>
+    </div>
+</li>
+                                    <li class="h3_block_product item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div class="col-md-4 col-xs-5 col-sm-4">
+        <a href="https://interlogisticllc.com/c-v-nalicii-bez-remonta/2851-2017-dodge-grand-caravan-sxt" title="2017 DODGE GRAND CARAVAN SXT">
+            <img src="https://interlogisticllc.com/storage/images/100x75/e207e0de38a21e92d9cfc6d4b19f256c.jpg" alt="2017 DODGE GRAND CARAVAN SXT" title="2017 DODGE GRAND CARAVAN SXT"/>
+        </a>
+    </div>
+    <div class="col-md-8 col-xs-7 col-sm-8">
+        <h5 class="s_title_block">
+            <a href="https://interlogisticllc.com/c-v-nalicii-bez-remonta/2851-2017-dodge-grand-caravan-sxt" title="2017 DODGE GRAND CARAVAN SXT">2017 DODGE GRAND CARAVAN SXT</a>
+        </h5>
+        <div>
+            <p class="price_container">
+                <span class="date">
+                    Выкуплен
+                    <br>
+                    
+                </span>
+                <span class="price">$ 11500</span>
+            </p>
+        </div>
+    </div>
+</li>
+                                    <li class="h3_block_product item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div class="col-md-4 col-xs-5 col-sm-4">
+        <a href="https://interlogisticllc.com/c-v-nalicii-bez-remonta/2850-2017-toyota-camry" title="2017 TOYOTA CAMRY">
+            <img src="https://interlogisticllc.com/storage/images/100x75/52c7ad2c7a06c7e03240d9fce20f9469.jpg" alt="2017 TOYOTA CAMRY" title="2017 TOYOTA CAMRY"/>
+        </a>
+    </div>
+    <div class="col-md-8 col-xs-7 col-sm-8">
+        <h5 class="s_title_block">
+            <a href="https://interlogisticllc.com/c-v-nalicii-bez-remonta/2850-2017-toyota-camry" title="2017 TOYOTA CAMRY">2017 TOYOTA CAMRY</a>
+        </h5>
+        <div>
+            <p class="price_container">
+                <span class="date">
+                    Выкуплен
+                    <br>
+                    
+                </span>
+                <span class="price">$ 12500</span>
+            </p>
+        </div>
+    </div>
+</li>
+                                    <li class="h3_block_product item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div class="col-md-4 col-xs-5 col-sm-4">
+        <a href="https://interlogisticllc.com/c-v-nalicii-bez-remonta/2849-2013-volkswagen-beetle" title="2013 VOLKSWAGEN BEETLE">
+            <img src="https://interlogisticllc.com/storage/images/100x75/4a0659c8fdbaf1e9b5bbcfc869e3de61.jpg" alt="2013 VOLKSWAGEN BEETLE" title="2013 VOLKSWAGEN BEETLE"/>
+        </a>
+    </div>
+    <div class="col-md-8 col-xs-7 col-sm-8">
+        <h5 class="s_title_block">
+            <a href="https://interlogisticllc.com/c-v-nalicii-bez-remonta/2849-2013-volkswagen-beetle" title="2013 VOLKSWAGEN BEETLE">2013 VOLKSWAGEN BEETLE</a>
+        </h5>
+        <div>
+            <p class="price_container">
+                <span class="date">
+                    Выкуплен
+                    <br>
+                    
+                </span>
+                <span class="price">$ 8900</span>
+            </p>
+        </div>
+    </div>
+</li>
+                                    <li class="h3_block_product item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div class="col-md-4 col-xs-5 col-sm-4">
+        <a href="https://interlogisticllc.com/c-v-processe-dostavki/2848-2015-mini-cooper-hardtop" title="2015 MINI COOPER HARDTOP">
+            <img src="https://interlogisticllc.com/storage/images/100x75/de006d27f479888ad8d67a5619cdb862.jpg" alt="2015 MINI COOPER HARDTOP" title="2015 MINI COOPER HARDTOP"/>
+        </a>
+    </div>
+    <div class="col-md-8 col-xs-7 col-sm-8">
+        <h5 class="s_title_block">
+            <a href="https://interlogisticllc.com/c-v-processe-dostavki/2848-2015-mini-cooper-hardtop" title="2015 MINI COOPER HARDTOP">2015 MINI COOPER HARDTOP</a>
+        </h5>
+        <div>
+            <p class="price_container">
+                <span class="date">
+                    Выкуплен
+                    <br>
+                    
+                </span>
+                <span class="price">$ 8100</span>
+            </p>
+        </div>
+    </div>
+</li>
+                                    <li class="h3_block_product item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div class="col-md-4 col-xs-5 col-sm-4">
+        <a href="https://interlogisticllc.com/c-istoriya-pokupok/2837-2016-toyota-camry-xle" title="2016 TOYOTA CAMRY XLE">
+            <img src="https://interlogisticllc.com/storage/images/100x75/c15959dbda9d6fc8fde26d135c9585d4.jpg" alt="2016 TOYOTA CAMRY XLE" title="2016 TOYOTA CAMRY XLE"/>
+        </a>
+    </div>
+    <div class="col-md-8 col-xs-7 col-sm-8">
+        <h5 class="s_title_block">
+            <a href="https://interlogisticllc.com/c-istoriya-pokupok/2837-2016-toyota-camry-xle" title="2016 TOYOTA CAMRY XLE">2016 TOYOTA CAMRY XLE</a>
+        </h5>
+        <div>
+            <p class="price_container">
+                <span class="date">
+                    Выкуплен
+                    <br>
+                    
+                </span>
+                <span class="price">$ 10700</span>
+            </p>
+        </div>
+    </div>
+</li>
+                                    <li class="h3_block_product last_item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div class="col-md-4 col-xs-5 col-sm-4">
+        <a href="https://interlogisticllc.com/c-v-processe-dostavki/2836-2015-toyota-prius" title="2015 TOYOTA PRIUS">
+            <img src="https://interlogisticllc.com/storage/images/100x75/21f83292cd1cca08c7dd6d6915f32a53.jpg" alt="2015 TOYOTA PRIUS" title="2015 TOYOTA PRIUS"/>
+        </a>
+    </div>
+    <div class="col-md-8 col-xs-7 col-sm-8">
+        <h5 class="s_title_block">
+            <a href="https://interlogisticllc.com/c-v-processe-dostavki/2836-2015-toyota-prius" title="2015 TOYOTA PRIUS">2015 TOYOTA PRIUS</a>
+        </h5>
+        <div>
+            <p class="price_container">
+                <span class="date">
+                    Выкуплен
+                    <br>
+                    
+                </span>
+                <span class="price">$ 9100</span>
+            </p>
+        </div>
+    </div>
+</li>
+                            </ul>
+            <div class="buttomlinkblock">
+                <a href="https://interlogisticllc.com/c-istoriya-pokupok" class="buttomlink" title="Cмотреть все авто">Cмотреть все авто</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="checklot">
+    <div class="container">
+        <div class="row structure">
+            <div class="title">Вы нашли авто на аукционе США?</div>
+        </div>
+    </div>
+</div>
+
+<div class="footer-container">
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="logo col-xs-12 col-sm-6 col-md-2">
+                    <a href="https://interlogisticllc.com" title="Interlogistic LLC">
+                        <img class="logo img-responsive" src="https://interlogisticllc.com/assets/front/img/big-logo-header.png" alt="Interlogistic LLC" title="Interlogistic LLC"/>
+                    </a>
+                </div>
+                <div class="text col-xs-12 hidden-sm col-md-2">Подбор, проверка и доставка авто<br> в любую точку Мира</div>
+                <div class="link col-sm-12 col-md-4">
+                    <a href="https://www.instagram.com/interlogisticllc/" title="Instagram" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a href="https://t.me/interlogistic_bot" title="Telegram" target="_blank"><i class="fab fa-telegram-plane"></i></a>
+                    <a href="https://www.youtube.com/channel/UChAkc3LiLTaAVANuCX_a1tA" title="Youtube" target="_blank"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.facebook.com/interlogistic.kharkov" title="Facebook" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                    <!--<a href="https://is.gd/ekD0Xn" title="Viber" target="_blank"><i class="fab fa-viber"></i></a>-->
+                    <!--<a href="https://api.whatsapp.com/send?phone=380931327777&text=&source=&data=" title="Whatsapp" target="_blank"><i class="fab fa-whatsapp"></i></a>-->
+                </div>
+                <a href="tel:+380663211105" class="phone col-xs-12 col-sm-6 col-md-4"><span>Остались вопросы<br>ЗАДАВАЙ</span><strong>066 321 1105</strong></a>
+            </div>
+        </div>
+    </footer>
+    <div class="copyrights col-sm-12 col-md-12">
+        <strong>&copy; 2021 - <a href="https://interlogisticllc.com/if}" title="Interlogistic LLC">Interlogistic LLC</a> - доставка авто из США</strong> <span style="color:#aaa;">| <a href="https://interlogisticllc.com/sitemap" title="Карта сайта" style="color:#aaa;">Sitemap</a></span>
+    </div>
+</div>
+
+<noindex>
+
+    <div class="layer_form_overlay"></div>
+    <div id="layer_form" style="display: none;"><span class="cross" title="Закрыть окно"></span>
+
+        <!-- FORM LOT BUY	 -->
+        <div id="bx24_form_inline_second20" style="display: none;" class="bx24_form_product">
+            <div class="form-lot-buy-wrap">
+                <form method="POST" class="auction__form js-auction__form" id="form-lot-buy">
+                    <div class="load-overlay hidden">
+                        <img class="spinner-icon" src="/public/dest/img/Spinner-1s-200px.svg" alt="">
+                    </div>
+                    <h3 class="form__title">Купить лот</h3>
+
+                    <div class="form__row-group">
+                        <div class="form__row">
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="name" minlength="3" maxlength="16" class="form__text js-form__name" type="text" placeholder="Имя">
+                            </div>
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="phone" class="form__text js-form__phone" type="tel" placeholder="Телефон">
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <input name="user" type="hidden" value="new">
+                            <button type="submit" class="button form__button js-form__button">Купить</button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- popups -->
+                <div class="pop-up form-lot-buy hidden">
+                    <div class="form__success js-form__success">
+                        <div class="form__success-image">
+                            <div class="form__success-icon">
+                                <span class="form__success-icon-line form__success-icon-line--long"></span>
+                                <span class="form__success-icon-line form__success-icon-line--tip"></span>
+                            </div>
+                        </div>
+                        <div class="form__success-text text-center">
+                            <h3 class="form__success-title">Ваша заявка принята!</h3>
+                            <p class="form__success-text">Мы свяжемся с вами как можно быстрее.</p>
+                        </div>
+                        <div class="form__success-footer">
+                            <div class="form__success-button-container">
+                                <!---<button class="form__success-button form__success-button--confirm js-form__success-confirm">OK
+                                </button>--->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/popups -->
+            </div>
+        </div>
+        <!-- FORM LOT BUY  END  -->
+
+        <!-- FORM FOLLOW LOT    -->
+        <div id="bx24_form_inline_second16" style="display: none;" class="bx24_form_product">
+            <div class="form-follow-lot-wrap">
+                <form method="POST" class="auction__form js-auction__form" id="form-follow-lot">
+                    <div class="load-overlay hidden">
+                        <img class="spinner-icon" src="/public/dest/img/Spinner-1s-200px.svg" alt="">
+                    </div>
+                    <h3 class="form__title">Следить за лотом</h3>
+
+                    <div class="form__row-group">
+                        <div class="form__row">
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="name" minlength="3" maxlength="16" class="form__text js-form__name" type="text" placeholder="Имя">
+                            </div>
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="phone" class="form__text js-form__phone" type="tel" placeholder="Телефон">
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <input name="user" type="hidden" value="new">
+                            <button type="submit" class="button form__button js-form__button">Следить</button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- popups -->
+                <div class="pop-up form-follow-lot hidden">
+                    <div class="form__success js-form__success">
+                        <div class="form__success-image">
+                            <div class="form__success-icon">
+                                <span class="form__success-icon-line form__success-icon-line--long"></span>
+                                <span class="form__success-icon-line form__success-icon-line--tip"></span>
+                            </div>
+                        </div>
+                        <div class="form__success-text text-center">
+                            <h3 class="form__success-title">Ваша заявка принята!</h3>
+                            <p class="form__success-text">Мы свяжемся с вами как можно быстрее.</p>
+                        </div>
+                        <div class="form__success-footer">
+                            <div class="form__success-button-container">
+                                <!---<button class="form__success-button form__success-button--confirm js-form__success-confirm">OK
+                                </button>--->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/popups -->
+            </div>
+        </div>
+        <!-- FORM FOLLOW LOT  END  -->
+
+
+        <!-- FORM BID ADD   -->
+        <div id="bx24_form_inline_second18" style="display: none;" class="bx24_form_product">
+            <div class="form-bid-add-wrap">
+                <form method="POST" class="auction__form js-auction__form" id="form-bid-add">
+                    <div class="load-overlay hidden">
+                        <img class="spinner-icon" src="/public/dest/img/Spinner-1s-200px.svg" alt="">
+                    </div>
+                    <h3 class="form__title">Сделать ставку</h3>
+
+                    <div class="form__row-group">
+                        <div class="form__row">
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="bid" minlength="3" maxlength="16" class="form__text js-form__bid" type="text" placeholder="Ставка">
+                            </div>
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="name" minlength="3" maxlength="16" class="form__text js-form__name" type="text" placeholder="Имя">
+                            </div>
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="phone" class="form__text js-form__phone" type="tel" placeholder="Телефон">
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <input name="user" type="hidden" value="new">
+                            <button type="submit" class="button form__button js-form__button">Ставка</button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- popups -->
+                <div class="pop-up form-bid-add hidden">
+                    <div class="form__success js-form__success">
+                        <div class="form__success-image">
+                            <div class="form__success-icon">
+                                <span class="form__success-icon-line form__success-icon-line--long"></span>
+                                <span class="form__success-icon-line form__success-icon-line--tip"></span>
+                            </div>
+                        </div>
+                        <div class="form__success-text text-center">
+                            <h3 class="form__success-title">Ваша ставка принята!</h3>
+                            <p class="form__success-text">Мы свяжемся с вами как можно быстрее.</p>
+                        </div>
+                        <div class="form__success-footer">
+                            <div class="form__success-button-container">
+                                <!---<button class="form__success-button form__success-button--confirm js-form__success-confirm">OK
+                                </button>--->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/popups -->
+            </div>
+        </div>
+        <!-- FORM BID ADD END  -->
+
+        <!-- FORM CONSULTATION   -->
+        <div id="bx24_form_inline_second12" style="display: none;" class="bx24_form_product">
+            <div class="form-consultation-wrap">
+                <form method="POST" class="auction__form js-auction__form" id="form-consultation">
+                    <div class="load-overlay hidden">
+                        <img class="spinner-icon" src="/public/dest/img/Spinner-1s-200px.svg" alt="">
+                    </div>
+                    <h3 class="form__title">Мы можем перезвонить Вам</h3>
+
+                    <div class="form__row-group">
+                        <div class="form__row">
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="name" minlength="3" maxlength="16" class="form__text js-form__name" type="text" placeholder="Имя">
+                            </div>
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="phone" class="form__text js-form__phone" type="tel" placeholder="Телефон">
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <input name="user" type="hidden" value="new">
+                            <button type="submit" class="button form__button js-form__button">Перезвоните мне</button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- popups -->
+                <div class="pop-up form-consultation hidden">
+                    <div class="form__success js-form__success">
+                        <div class="form__success-image">
+                            <div class="form__success-icon">
+                                <span class="form__success-icon-line form__success-icon-line--long"></span>
+                                <span class="form__success-icon-line form__success-icon-line--tip"></span>
+                            </div>
+                        </div>
+                        <div class="form__success-text text-center">
+                            <h3 class="form__success-title">Ваша заявка принята!</h3>
+                            <p class="form__success-text">Мы свяжемся с вами как можно быстрее.</p>
+                        </div>
+                        <div class="form__success-footer">
+                            <div class="form__success-button-container">
+                                <!---<button class="form__success-button form__success-button--confirm js-form__success-confirm">OK
+                                </button>--->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/popups -->
+            </div>
+        </div>
+        <!-- FORM CONSULTATION END  -->
+
+
+        <!-- FORM LOT CHECK   -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- FORM LOT CHECK END  -->
+
+        <!-- FORM FIND AUTO   -->
+        <div id="bx24_form_inline_second60" style="display: none;" class="bx24_form_product">
+            <div class="form-lot-check-wrap">
+                <form method="POST" action="form_find_auto.php" class="auction__form js-auction__form" id="form-find-auto">
+                    <div class="load-overlay hidden">
+                        <img class="spinner-icon" src="/public/dest/img/Spinner-1s-200px.svg" alt="">
+                    </div>
+                    <h3 class="form__title">Укажите данные автомобиля и ваши контакты</h3>
+
+                    <div class="form__row-group">
+                        <div class="form__row">
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <select required name="car-brand" class="form__text">
+                                    <option value="">Выберите марку авто</option>
+                                    <option value="188">BMW</option>
+                                    <option value="190">Cadillac</option>
+                                    <option value="192">Chrysler</option>
+                                    <option value="194">Dodge</option>
+                                    <option value="196">Ford</option>
+                                    <option value="198">GMC</option>
+                                    <option value="200">Honda</option>
+                                    <option value="202">Hyundai</option>
+                                    <option value="204">Infiniti</option>
+                                    <option value="206">Jeep</option>
+                                    <option value="208">Kia</option>
+                                    <option value="210">Lexus</option>
+                                    <option value="212">Mazda</option>
+                                    <option value="214">Mercedes-Benz</option>
+                                    <option value="216">Mitsubishi</option>
+                                    <option value="218">Nissan</option>
+                                    <option value="220">Pontiac</option>
+                                    <option value="222">Subaru</option>
+                                    <option value="224">Suzuki</option>
+                                    <option value="226">Toyota</option>
+                                    <option value="228">Volkswagen</option>
+                                    <option value="230">Volvo</option>
+                                    <option value="232">Land Rover</option>
+                                    <option value="234">Harley</option>
+                                    <option value="236">Acura</option>
+                                    <option value="338">Другое</option>
+                                </select>
+                            </div>
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="car-model" minlength="2" maxlength="64" class="form__text js-form__car-model" type="text" placeholder="Модель авто">
+                            </div>
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <select required name="car-year" class="form__text">
+                                    <option value="">Выберите год</option>
+                                    <option value="4593">2019</option>
+                                    <option value="4595">2018</option>
+                                    <option value="4597">2017</option>
+                                    <option value="4599">2016</option>
+                                    <option value="4601">2015</option>
+                                    <option value="4603">2014</option>
+                                    <option value="4605">2013</option>
+                                    <option value="4607">2012</option>
+                                    <option value="4609">2011</option>
+                                    <option value="4611">2010</option>
+                                    <option value="4613">2009</option>
+                                </select>
+                            </div>
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="maximum-budget" minlength="3" maxlength="32" class="form__text js-form__maximum-budget" type="text" placeholder="Бюджет до">
+                            </div>
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="name" minlength="3" maxlength="16" class="form__text js-form__name" type="text" placeholder="Имя">
+                            </div>
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="phone" class="form__text js-form__phone" type="tel" placeholder="Телефон">
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <input name="user" type="hidden" value="new">
+                            <button type="submit" class="button form__button js-form__button">Подобрать Авто</button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- popups -->
+                <div class="pop-up form-find-auto hidden">
+                    <div class="form__success js-form__success">
+                        <div class="form__success-image">
+                            <div class="form__success-icon">
+                                <span class="form__success-icon-line form__success-icon-line--long"></span>
+                                <span class="form__success-icon-line form__success-icon-line--tip"></span>
+                            </div>
+                        </div>
+                        <div class="form__success-text text-center">
+                            <h3 class="form__success-title">Ваша заявка принята!</h3>
+                            <p class="form__success-text">Мы свяжемся с вами как можно быстрее.</p>
+                        </div>
+                        <div class="form__success-footer">
+                            <div class="form__success-button-container">
+                                <!---<button class="form__success-button form__success-button--confirm js-form__success-confirm">OK
+                                </button>--->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/popups -->
+            </div>
+        </div>
+        <!-- FORM FIND AUTO END  -->
+        <!-- FORM WANT KNOW MORE   -->
+        <div id="bx24_form_inline_second10" style="display: none;" class="bx24_form_product">
+            <div class="form-want-know-more">
+                <form method="POST" class="auction__form js-auction__form" id="form-want-know-more">
+                    <div class="load-overlay hidden">
+                        <img class="spinner-icon" src="/public/dest/img/Spinner-1s-200px.svg" alt="">
+                    </div>
+                    <h3 class="form__title">Мы можем перезвонить Вам!</h3>
+
+                    <div class="form__row-group">
+                        <div class="form__row">
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="name" minlength="3" maxlength="16" class="form__text js-form__name" type="text" placeholder="Имя">
+                            </div>
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="phone" class="form__text js-form__phone" type="tel" placeholder="Телефон">
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <input name="user" type="hidden" value="new">
+                            <button type="submit" class="button form__button js-form__button">Перезвоните мне</button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- popups -->
+                <div class="pop-up form-want-know-more hidden">
+                    <div class="form__success js-form__success">
+                        <div class="form__success-image">
+                            <div class="form__success-icon">
+                                <span class="form__success-icon-line form__success-icon-line--long"></span>
+                                <span class="form__success-icon-line form__success-icon-line--tip"></span>
+                            </div>
+                        </div>
+                        <div class="form__success-text text-center">
+                            <h3 class="form__success-title">Ваша заявка принята!</h3>
+                            <p class="form__success-text">Мы свяжемся с вами как можно быстрее.</p>
+                        </div>
+                        <div class="form__success-footer">
+                            <div class="form__success-button-container">
+                                <!---<button class="form__success-button form__success-button--confirm js-form__success-confirm">OK
+                                </button>--->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/popups -->
+            </div>
+        </div>
+        <!-- FORM WANT KNOW MORE END  -->
+
+        <!-- FORM FIND SIMILAR LOT   -->
+        <div id="bx24_form_inline_second14" style="display: none;" class="bx24_form_product">
+            <div class="form-find-similar-lot-wrap">
+                <form method="POST" class="auction__form js-auction__form" id="form-find-similar-lot">
+                    <div class="load-overlay hidden">
+                        <img class="spinner-icon" src="/public/dest/img/Spinner-1s-200px.svg" alt="">
+                    </div>
+                    <h3 class="form__title">Мы можем перезвонить Вам!</h3>
+
+                    <div class="form__row-group">
+                        <div class="form__row">
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="my-bid" minlength="3" maxlength="16" class="form__text js-form__my-bid" type="text" placeholder="Моя ставка">
+                            </div>
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="name" minlength="3" maxlength="16" class="form__text js-form__name" type="text" placeholder="Имя">
+                            </div>
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required name="phone" class="form__text js-form__phone" type="tel" placeholder="Телефон">
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <input name="user" type="hidden" value="new">
+                            <button type="submit" class="button form__button js-form__button">Перезвоните мне</button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- popups -->
+                <div class="pop-up form-find-similar-lot hidden">
+                    <div class="form__success js-form__success">
+                        <div class="form__success-image">
+                            <div class="form__success-icon">
+                                <span class="form__success-icon-line form__success-icon-line--long"></span>
+                                <span class="form__success-icon-line form__success-icon-line--tip"></span>
+                            </div>
+                        </div>
+                        <div class="form__success-text text-center">
+                            <h3 class="form__success-title">Ваша заявка принята!</h3>
+                            <p class="form__success-text">Мы свяжемся с вами как можно быстрее.</p>
+                        </div>
+                        <div class="form__success-footer">
+                            <div class="form__success-button-container">
+                                <!---<button class="form__success-button form__success-button--confirm js-form__success-confirm">OK
+                                    </button>--->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/popups -->
+            </div>
+        </div>
+        <!-- FORM FIND SIMILAR LOT END  -->
+    </div>
+</noindex>
+
+<script>
+    (function(w,d,u){
+        var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+        var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+    })(window,document,'https://cdn.bitrix24.ua/b9431101/crm/tag/call.tracker.js');
+</script>
+
+<script>
+    (function(w,d,u){
+        var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+        var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+    })(window,document,'https://ilc.logisctic.com/upload/crm/site_button/loader_8_u7eozv.js');
+</script>
+
+<noindex>
+
+    <div class="layer_form_overlay"></div>
+    <div id="layer_form" style="display: none;"><span class="cross" title="Закрыть окно"></span>
+
+        <!-- FORM LOT BUY	 -->
+        <div id="bx24_form_inline_second20" style="display: none;" class="bx24_form_product">
+            <div class="form-lot-buy-wrap">
+                <form method="POST" class="auction__form js-auction__form" id="form-lot-buy">
+                    <div class="load-overlay hidden">
+                        <img class="spinner-icon" src="/dest/img/Spinner-1s-200px.svg" alt="">
+                    </div>
+                    <h3 class="form__title">Купить лот</h3>
+
+                    <div class="form__row-group">
+                        <div class="form__row">
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="name" minlength="3" maxlength="16" class="form__text js-form__name" type="text" placeholder="Имя">
+                            </div>
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="phone" class="form__text js-form__phone" type="tel" placeholder="Телефон" maxlength="18">
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <input name="user" type="hidden" value="new">
+                            <button type="submit" class="button form__button js-form__button">Купить</button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- popups -->
+                <div class="pop-up form-lot-buy hidden">
+                    <div class="form__success js-form__success">
+                        <div class="form__success-image">
+                            <div class="form__success-icon">
+                                <span class="form__success-icon-line form__success-icon-line--long"></span>
+                                <span class="form__success-icon-line form__success-icon-line--tip"></span>
+                            </div>
+                        </div>
+                        <div class="form__success-text text-center">
+                            <h3 class="form__success-title">Ваша заявка принята!</h3>
+                            <p class="form__success-text">Мы свяжемся с вами как можно быстрее.</p>
+                        </div>
+                        <div class="form__success-footer">
+                            <div class="form__success-button-container">
+                                <!---<button class="form__success-button form__success-button--confirm js-form__success-confirm">OK
+                                </button>--->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/popups -->
+            </div>
+        </div>
+        <!-- FORM LOT BUY  END  -->
+
+        <!-- FORM FOLLOW LOT    -->
+        <div id="bx24_form_inline_second16" style="display: none;" class="bx24_form_product">
+            <div class="form-follow-lot-wrap">
+                <form method="POST" class="auction__form js-auction__form" id="form-follow-lot">
+                    <div class="load-overlay hidden">
+                        <img class="spinner-icon" src="/dest/img/Spinner-1s-200px.svg" alt="">
+                    </div>
+                    <h3 class="form__title">Следить за лотом</h3>
+
+                    <div class="form__row-group">
+                        <div class="form__row">
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="name" minlength="3" maxlength="16" class="form__text js-form__name" type="text" placeholder="Имя">
+                            </div>
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="phone" class="form__text js-form__phone" type="tel" placeholder="Телефон" maxlength="18">
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <input name="user" type="hidden" value="new">
+                            <button type="submit" class="button form__button js-form__button">Следить</button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- popups -->
+                <div class="pop-up form-follow-lot hidden">
+                    <div class="form__success js-form__success">
+                        <div class="form__success-image">
+                            <div class="form__success-icon">
+                                <span class="form__success-icon-line form__success-icon-line--long"></span>
+                                <span class="form__success-icon-line form__success-icon-line--tip"></span>
+                            </div>
+                        </div>
+                        <div class="form__success-text text-center">
+                            <h3 class="form__success-title">Ваша заявка принята!</h3>
+                            <p class="form__success-text">Мы свяжемся с вами как можно быстрее.</p>
+                        </div>
+                        <div class="form__success-footer">
+                            <div class="form__success-button-container">
+                                <!---<button class="form__success-button form__success-button--confirm js-form__success-confirm">OK
+                                </button>--->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/popups -->
+            </div>
+        </div>
+        <!-- FORM FOLLOW LOT  END  -->
+
+
+        <!-- FORM BID ADD   -->
+        <div id="bx24_form_inline_second18" style="display: none;" class="bx24_form_product">
+            <div class="form-bid-add-wrap">
+                <form method="POST" class="auction__form js-auction__form" id="form-bid-add">
+                    <div class="load-overlay hidden">
+                        <img class="spinner-icon" src="/dest/img/Spinner-1s-200px.svg" alt="">
+                    </div>
+                    <h3 class="form__title">Сделать ставку</h3>
+
+                    <div class="form__row-group">
+                        <div class="form__row">
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="bid" minlength="3" maxlength="12" class="form__text js-form__bid" type="text" placeholder="Ставка">
+                            </div>
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="name" minlength="3" maxlength="16" class="form__text js-form__name" type="text" placeholder="Имя">
+                            </div>
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="phone" class="form__text js-form__phone" type="tel" placeholder="Телефон" maxlength="18">
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <input name="user" type="hidden" value="new">
+                            <button type="submit" class="button form__button js-form__button">Ставка</button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- popups -->
+                <div class="pop-up form-bid-add hidden">
+                    <div class="form__success js-form__success">
+                        <div class="form__success-image">
+                            <div class="form__success-icon">
+                                <span class="form__success-icon-line form__success-icon-line--long"></span>
+                                <span class="form__success-icon-line form__success-icon-line--tip"></span>
+                            </div>
+                        </div>
+                        <div class="form__success-text text-center">
+                            <h3 class="form__success-title">Ваша ставка принята!</h3>
+                            <p class="form__success-text">Мы свяжемся с вами как можно быстрее.</p>
+                        </div>
+                        <div class="form__success-footer">
+                            <div class="form__success-button-container">
+                                <!---<button class="form__success-button form__success-button--confirm js-form__success-confirm">OK
+                                </button>--->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/popups -->
+            </div>
+        </div>
+        <!-- FORM BID ADD END  -->
+
+        <!-- FORM CONSULTATION   -->
+        <div id="bx24_form_inline_second12" style="display: none;" class="bx24_form_product">
+            <div class="form-consultation-wrap">
+                <form method="POST" class="auction__form js-auction__form" id="form-consultation">
+                    <div class="load-overlay hidden">
+                        <img class="spinner-icon" src="/dest/img/Spinner-1s-200px.svg" alt="">
+                    </div>
+                    <h3 class="form__title">Мы можем перезвонить Вам</h3>
+
+                    <div class="form__row-group">
+                        <div class="form__row">
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="name" minlength="3" maxlength="16" class="form__text js-form__name" type="text" placeholder="Имя">
+                            </div>
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="phone" class="form__text js-form__phone" type="tel" placeholder="Телефон" maxlength="18">
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <input name="user" type="hidden" value="new">
+                            <button type="submit" class="button form__button js-form__button">Перезвоните мне</button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- popups -->
+                <div class="pop-up form-consultation hidden">
+                    <div class="form__success js-form__success">
+                        <div class="form__success-image">
+                            <div class="form__success-icon">
+                                <span class="form__success-icon-line form__success-icon-line--long"></span>
+                                <span class="form__success-icon-line form__success-icon-line--tip"></span>
+                            </div>
+                        </div>
+                        <div class="form__success-text text-center">
+                            <h3 class="form__success-title">Ваша заявка принята!</h3>
+                            <p class="form__success-text">Мы свяжемся с вами как можно быстрее.</p>
+                        </div>
+                        <div class="form__success-footer">
+                            <div class="form__success-button-container">
+                                <!---<button class="form__success-button form__success-button--confirm js-form__success-confirm">OK
+                                </button>--->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/popups -->
+            </div>
+        </div>
+        <!-- FORM CONSULTATION END  -->
+
+
+        <!-- FORM LOT CHECK END  -->
+
+        <!-- FORM FIND AUTO   -->
+        <div id="bx24_form_inline_second60" style="display: none;" class="bx24_form_product">
+            <div class="form-lot-check-wrap">
+                <form method="POST" action="form_find_auto.php" class="auction__form js-auction__form" id="form-find-auto">
+                    <div class="load-overlay hidden">
+                        <img class="spinner-icon" src="/dest/img/Spinner-1s-200px.svg" alt="">
+                    </div>
+                    <h3 class="form__title">Укажите данные автомобиля и ваши контакты</h3>
+
+                    <div class="form__row-group">
+                        <div class="form__row">
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <select required="" name="car-brand" class="form__text">
+                                    <option value="">Выберите марку авто</option>
+                                    <option value="188">BMW</option>
+                                    <option value="190">Cadillac</option>
+                                    <option value="192">Chrysler</option>
+                                    <option value="194">Dodge</option>
+                                    <option value="196">Ford</option>
+                                    <option value="198">GMC</option>
+                                    <option value="200">Honda</option>
+                                    <option value="202">Hyundai</option>
+                                    <option value="204">Infiniti</option>
+                                    <option value="206">Jeep</option>
+                                    <option value="208">Kia</option>
+                                    <option value="210">Lexus</option>
+                                    <option value="212">Mazda</option>
+                                    <option value="214">Mercedes-Benz</option>
+                                    <option value="216">Mitsubishi</option>
+                                    <option value="218">Nissan</option>
+                                    <option value="220">Pontiac</option>
+                                    <option value="222">Subaru</option>
+                                    <option value="224">Suzuki</option>
+                                    <option value="226">Toyota</option>
+                                    <option value="228">Volkswagen</option>
+                                    <option value="230">Volvo</option>
+                                    <option value="232">Land Rover</option>
+                                    <option value="234">Harley</option>
+                                    <option value="236">Acura</option>
+                                    <option value="338">Другое</option>
+                                </select>
+                            </div>
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="car-model" minlength="2" maxlength="64" class="form__text js-form__car-model" type="text" placeholder="Модель авто">
+                            </div>
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <select required="" name="car-year" class="form__text">
+                                    <option value="">Выберите год</option>
+                                    <option value="4593">2019</option>
+                                    <option value="4595">2018</option>
+                                    <option value="4597">2017</option>
+                                    <option value="4599">2016</option>
+                                    <option value="4601">2015</option>
+                                    <option value="4603">2014</option>
+                                    <option value="4605">2013</option>
+                                    <option value="4607">2012</option>
+                                    <option value="4609">2011</option>
+                                    <option value="4611">2010</option>
+                                    <option value="4613">2009</option>
+                                </select>
+                            </div>
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="maximum-budget" minlength="3" maxlength="25" class="form__text js-form__maximum-budget" type="text" placeholder="Бюджет до">
+                            </div>
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="name" minlength="3" maxlength="16" class="form__text js-form__name" type="text" placeholder="Имя">
+                            </div>
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="phone" class="form__text js-form__phone" type="tel" placeholder="Телефон" maxlength="18">
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <input name="user" type="hidden" value="new">
+                            <button type="submit" class="button form__button js-form__button">Подобрать Авто</button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- popups -->
+                <div class="pop-up form-find-auto hidden">
+                    <div class="form__success js-form__success">
+                        <div class="form__success-image">
+                            <div class="form__success-icon">
+                                <span class="form__success-icon-line form__success-icon-line--long"></span>
+                                <span class="form__success-icon-line form__success-icon-line--tip"></span>
+                            </div>
+                        </div>
+                        <div class="form__success-text text-center">
+                            <h3 class="form__success-title">Ваша заявка принята!</h3>
+                            <p class="form__success-text">Мы свяжемся с вами как можно быстрее.</p>
+                        </div>
+                        <div class="form__success-footer">
+                            <div class="form__success-button-container">
+                                <!---<button class="form__success-button form__success-button--confirm js-form__success-confirm">OK
+                                </button>--->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/popups -->
+            </div>
+        </div>
+        <!-- FORM FIND AUTO END  -->
+        <!-- FORM WANT KNOW MORE   -->
+        <div id="bx24_form_inline_second10" style="display: none;" class="bx24_form_product">
+            <div class="form-want-know-more">
+                <form method="POST" class="auction__form js-auction__form" id="form-want-know-more">
+                    <div class="load-overlay hidden">
+                        <img class="spinner-icon" src="/dest/img/Spinner-1s-200px.svg" alt="">
+                    </div>
+                    <h3 class="form__title">Мы можем перезвонить Вам!</h3>
+
+                    <div class="form__row-group">
+                        <div class="form__row">
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="name" minlength="3" maxlength="16" class="form__text js-form__name" type="text" placeholder="Имя">
+                            </div>
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="phone" class="form__text js-form__phone" type="tel" placeholder="Телефон" maxlength="18">
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <input name="user" type="hidden" value="new">
+                            <button type="submit" class="button form__button js-form__button">Перезвоните мне</button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- popups -->
+                <div class="pop-up form-want-know-more hidden">
+                    <div class="form__success js-form__success">
+                        <div class="form__success-image">
+                            <div class="form__success-icon">
+                                <span class="form__success-icon-line form__success-icon-line--long"></span>
+                                <span class="form__success-icon-line form__success-icon-line--tip"></span>
+                            </div>
+                        </div>
+                        <div class="form__success-text text-center">
+                            <h3 class="form__success-title">Ваша заявка принята!</h3>
+                            <p class="form__success-text">Мы свяжемся с вами как можно быстрее.</p>
+                        </div>
+                        <div class="form__success-footer">
+                            <div class="form__success-button-container">
+                                <!---<button class="form__success-button form__success-button--confirm js-form__success-confirm">OK
+                                </button>--->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/popups -->
+            </div>
+        </div>
+        <!-- FORM WANT KNOW MORE END  -->
+
+        <!-- FORM FIND SIMILAR LOT   -->
+        <div id="bx24_form_inline_second14" style="display: none;" class="bx24_form_product">
+            <div class="form-find-similar-lot-wrap">
+                <form method="POST" class="auction__form js-auction__form" id="form-find-similar-lot">
+                    <div class="load-overlay hidden">
+                        <img class="spinner-icon" src="/dest/img/Spinner-1s-200px.svg" alt="">
+                    </div>
+                    <h3 class="form__title">Мы можем перезвонить Вам!</h3>
+
+                    <div class="form__row-group">
+                        <div class="form__row">
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="my-bid" minlength="3" maxlength="25" class="form__text js-form__my-bid" type="text" placeholder="Моя ставка">
+                            </div>
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="name" minlength="3" maxlength="16" class="form__text js-form__name" type="text" placeholder="Имя">
+                            </div>
+
+                            <div class="form__box-short form__box-short--mobile">
+                                <input required="" name="phone" class="form__text js-form__phone" type="tel" placeholder="Телефон" maxlength="18">
+                            </div>
+                        </div>
+
+                        <div class="form__row">
+                            <input name="user" type="hidden" value="new">
+                            <button type="submit" class="button form__button js-form__button">Перезвоните мне</button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- popups -->
+                <div class="pop-up form-find-similar-lot hidden">
+                    <div class="form__success js-form__success">
+                        <div class="form__success-image">
+                            <div class="form__success-icon">
+                                <span class="form__success-icon-line form__success-icon-line--long"></span>
+                                <span class="form__success-icon-line form__success-icon-line--tip"></span>
+                            </div>
+                        </div>
+                        <div class="form__success-text text-center">
+                            <h3 class="form__success-title">Ваша заявка принята!</h3>
+                            <p class="form__success-text">Мы свяжемся с вами как можно быстрее.</p>
+                        </div>
+                        <div class="form__success-footer">
+                            <div class="form__success-button-container">
+                                <!---<button class="form__success-button form__success-button--confirm js-form__success-confirm">OK
+                                    </button>--->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/popups -->
+            </div>
+        </div>
+        <!-- FORM FIND SIMILAR LOT END  -->
+    </div>
+</noindex>
+
+<div class="b24-form">
+    <div id="b24-b24-site-button-form-66" data-styles-apllied="true" class="">
+        <div class="b24-window">
+            <div class="b24-window-overlay" style="background-color: transparent; display: none;"></div>
+            <div class="b24-window-widget b24-window-widget-p-bottom-right" style="display: none;">
+                <button type="button" class="b24-window-close"></button>
+                <div class="b24-window-widget-body">
+                    <div class="b24-form-wrapper b24-form-border-bottom">
+                        <div class="b24-form-header b24-form-padding-side">
+                            <div class="b24-form-header-description">Заполните форму и мы Вам перезвоним</div>
+                        </div>
+                        <div class="b24-form-content b24-form-padding-side">
+                            <form method="post" novalidate="novalidate">
+                                <div>
+                                    <div class="b24-form-field b24-form-field-name b24-form-control-string">
+                                        <div>
+                                            <div>
+                                                <div class="b24-form-control-container b24-form-control-icon-after">
+                                                    <input name="name" autocomplete="given-name" type="string" class="b24-form-control">
+                                                    <div class="b24-form-control-label">
+                                                        Name
+                                                        <span class="b24-form-control-required">*</span>
+                                                    </div>
+                                                    <div class="b24-form-control-alert-message" style="display: none;">Поле обязательно для заполнения</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="b24-form-field b24-form-field-phone b24-form-control-string">
+                                        <div>
+                                            <div>
+                                                <div class="b24-form-control-container b24-form-control-icon-after">
+                                                    <input name="phone" autocomplete="tel" type="tel"
+                                                           class="b24-form-control b24-form-control-not-empty">
+                                                    <div class="b24-form-control-label">
+                                                        Phone
+                                                        <span class="b24-form-control-required">*</span>
+                                                    </div>
+                                                    <div class="b24-form-control-alert-message" style="display: none;">
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="b24-window">
+                                        <div class="b24-window-overlay" style="display: none;"></div>
+                                        <div class="b24-window-popup b24-window-popup-p-center" style="display: none;">
+                                            <div class="b24-window-popup-wrapper" style="max-width: 600px;">
+                                                <button type="button" class="b24-window-close" style="z-index: 200019;"></button>
+                                                <div>
+                                                    <div class="b24-window-scrollable" style="z-index: 199999;">
+                                                        <div class="b24-window-scroll-anchor"></div>
+                                                        <div class="b24-window-popup-body">
+                                                            <div style="padding: 0px 12px 12px;">
+                                                                <div></div>
+                                                                <div class="b24-form-btn-container"
+                                                                     style="padding: 12px 0px 0px;">
+                                                                    <div class="b24-form-btn-block">
+                                                                        <button type="button" class="b24-form-btn">
+                                                                            Принимаю
+                                                                        </button>
+                                                                    </div>
+                                                                    <div class="b24-form-btn-block">
+                                                                        <button type="button" class="b24-form-btn b24-form-btn-white b24-form-btn-border">Не принимаю</button>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="b24-window-scroll-anchor"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="b24-form-btn-container">
+                                    <div class="b24-form-btn-block">
+                                        <button type="submit" class="b24-form-btn">Заказать звонок</button>
+                                    </div>
+                                </div>
+                                <span style="color: red; display: none;">Debug: fill fields</span>
+                            </form>
+                        </div>
+                        <div class="b24-form-state-container">
+                            <div class="b24-form-loader" style="display: none;">
+                                <div class="b24-form-loader-icon">
+                                    <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"
+                                         viewBox="0 0 263 174">
+                                        <defs>
+                                            <svg width="158px" height="158px" viewBox="0 0 158 158" version="1.1"
+                                                 xmlns="http://www.w3.org/2000/svg"
+                                                 xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <path id="bxSunLines"
+                                                      d="M79,0 C80.6568542,0 82,1.34314575 82,3 L82,22 C82,23.6568542 80.6568542,25 79,25 C77.3431458,25 76,23.6568542 76,22 L76,3 C76,1.34314575 77.3431458,0 79,0 Z M134.861,23.139 C136.032146,24.3104996 136.032146,26.2095004 134.861,27.381 L121.426,40.816 C120.248863,41.9529166 118.377746,41.9366571 117.220544,40.7794557 C116.063343,39.6222543 116.047083,37.7511367 117.184,36.574 L130.619,23.139 C131.7905,21.9678542 133.6895,21.9678542 134.861,23.139 L134.861,23.139 Z M158,79 C158,80.6568542 156.656854,82 155,82 L136,82 C134.343146,82 133,80.6568542 133,79 C133,77.3431458 134.343146,76 136,76 L155,76 C156.656854,76 158,77.3431458 158,79 Z M134.861,134.861 C133.6895,136.032146 131.7905,136.032146 130.619,134.861 L117.184,121.426 C116.40413,120.672777 116.091362,119.557366 116.365909,118.508478 C116.640455,117.45959 117.45959,116.640455 118.508478,116.365909 C119.557366,116.091362 120.672777,116.40413 121.426,117.184 L134.861,130.619 C136.032146,131.7905 136.032146,133.6895 134.861,134.861 Z M79,158 C77.3431458,158 76,156.656854 76,155 L76,136 C76,134.343146 77.3431458,133 79,133 C80.6568542,133 82,134.343146 82,136 L82,155 C82,156.656854 80.6568542,158 79,158 Z M23.139,134.861 C21.9678542,133.6895 21.9678542,131.7905 23.139,130.619 L36.574,117.184 C37.3272234,116.40413 38.4426337,116.091362 39.491522,116.365909 C40.5404103,116.640455 41.3595451,117.45959 41.6340915,118.508478 C41.9086378,119.557366 41.5958698,120.672777 40.816,121.426 L27.381,134.861 C26.2095004,136.032146 24.3104996,136.032146 23.139,134.861 Z M0,79 C0,77.3431458 1.34314575,76 3,76 L22,76 C23.6568542,76 25,77.3431458 25,79 C25,80.6568542 23.6568542,82 22,82 L3,82 C1.34314575,82 0,80.6568542 0,79 L0,79 Z M23.139,23.139 C24.3104996,21.9678542 26.2095004,21.9678542 27.381,23.139 L40.816,36.574 C41.5958698,37.3272234 41.9086378,38.4426337 41.6340915,39.491522 C41.3595451,40.5404103 40.5404103,41.3595451 39.491522,41.6340915 C38.4426337,41.9086378 37.3272234,41.5958698 36.574,40.816 L23.139,27.381 C21.9678542,26.2095004 21.9678542,24.3104996 23.139,23.139 Z"
+                                                      fill="#FFD110" class="bx-sun-lines-animate"></path>
+                                            </svg>
+                                        </defs>
+                                        <g fill="none" fill-rule="evenodd">
+                                            <path
+                                                d="M65.745 160.5l.245-.005c13.047-.261 23.51-10.923 23.51-23.995 0-13.255-10.745-24-24-24-3.404 0-6.706.709-9.748 2.062l-.47.21-.196-.477A19.004 19.004 0 0 0 37.5 102.5c-10.493 0-19 8.507-19 19 0 1.154.103 2.295.306 3.413l.108.6-.609-.01A17.856 17.856 0 0 0 18 125.5C8.335 125.5.5 133.335.5 143s7.835 17.5 17.5 17.5h47.745zM166.5 85.5h69v-.316l.422-.066C251.14 82.73 262.5 69.564 262.5 54c0-17.397-14.103-31.5-31.5-31.5-.347 0-.694.006-1.04.017l-.395.013-.103-.382C226.025 9.455 214.63.5 201.5.5c-15.014 0-27.512 11.658-28.877 26.765l-.047.515-.512-.063a29.296 29.296 0 0 0-3.564-.217c-16.016 0-29 12.984-29 29 0 15.101 11.59 27.643 26.542 28.897l.458.039v.064z"
+                                                stroke-opacity=".05" stroke="#000" fill="#000"></path>
+                                            <circle stroke="#FFD110" stroke-width="6" cx="131.5" cy="95.5" r="44.5"
+                                                    class="b24-form-loader-icon-sun-ring"></circle>
+                                        </g>
+                                        <use xlink:href="#bxSunLines" y="16.5" x="52.5" width="158" height="158"
+                                             class="b24-form-loader-icon-sun-line"></use>
+                                    </svg>
+                                </div>
+                            </div>
+                            <div class="b24-form-state b24-form-success" style="display: none;">
+                                <div class="b24-form-state-inner">
+                                    <div class="b24-form-state-icon b24-form-success-icon"></div>
+                                    <div class="b24-form-state-text">
+                                        <p>Отправлено!</p>
+                                        <p></p>
+                                    </div>
+                                </div>
+                                <div class="b24-form-inner-box"></div>
+                            </div>
+                            <div class="b24-form-state b24-form-error" style="display: none;">
+                                <div class="b24-form-state-inner">
+                                    <div class="b24-form-state-icon b24-form-error-icon"></div>
+                                    <div class="b24-form-state-text"><p></p></div>
+                                    <button class="b24-form-btn b24-form-btn-border b24-form-btn-tight">Отправить еще раз</button>
+                                </div>
+                                <div class="b24-form-inner-box"></div>
+                            </div>
+                            <div class="b24-form-state b24-form-warning" style="display: none;">
+                                <div class="b24-form-state-inner">
+                                    <div class="b24-form-state-icon b24-form-warning-icon">
+                                        <svg xmlns="http://www.w3.org/2000/svg"
+                                             xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 169 169">
+                                            <defs>
+                                                <circle id="a" cx="84.5" cy="84.5" r="65.5"></circle>
+                                                <filter x="-.8%" y="-.8%" width="101.5%" height="101.5%"
+                                                        filterUnits="objectBoundingBox" id="b">
+                                                    <feGaussianBlur stdDeviation=".5" in="SourceAlpha"
+                                                                    result="shadowBlurInner1"></feGaussianBlur>
+                                                    <feOffset dx="-1" dy="-1" in="shadowBlurInner1"
+                                                              result="shadowOffsetInner1"></feOffset>
+                                                    <feComposite in="shadowOffsetInner1" in2="SourceAlpha"
+                                                                 operator="arithmetic" k2="-1" k3="1"
+                                                                 result="shadowInnerInner1"></feComposite>
+                                                    <feColorMatrix
+                                                        values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0886691434 0"
+                                                        in="shadowInnerInner1"
+                                                        result="shadowMatrixInner1"></feColorMatrix>
+                                                    <feGaussianBlur stdDeviation=".5" in="SourceAlpha"
+                                                                    result="shadowBlurInner2"></feGaussianBlur>
+                                                    <feOffset dx="1" dy="1" in="shadowBlurInner2"
+                                                              result="shadowOffsetInner2"></feOffset>
+                                                    <feComposite in="shadowOffsetInner2" in2="SourceAlpha"
+                                                                 operator="arithmetic" k2="-1" k3="1"
+                                                                 result="shadowInnerInner2"></feComposite>
+                                                    <feColorMatrix
+                                                        values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.292285839 0"
+                                                        in="shadowInnerInner2"
+                                                        result="shadowMatrixInner2"></feColorMatrix>
+                                                    <feMerge>
+                                                        <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                                                        <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+                                                    </feMerge>
+                                                </filter>
+                                            </defs>
+                                            <g fill="none" fill-rule="evenodd">
+                                                <circle stroke-opacity=".05" stroke="#000" fill-opacity=".07"
+                                                        fill="#000" cx="84.5" cy="84.5" r="84"></circle>
+                                                <use fill="#FFF" xlink:href="#a"></use>
+                                                <use fill="#000" filter="url(#b)" xlink:href="#a"></use>
+                                                <path
+                                                    d="M114.29 99.648L89.214 58.376c-1.932-3.168-6.536-3.168-8.427 0L55.709 99.648c-1.974 3.25.41 7.352 4.234 7.352h50.155c3.782 0 6.166-4.103 4.193-7.352zM81.404 72.756c0-1.828 1.48-3.29 3.33-3.29h.452c1.85 0 3.33 1.462 3.33 3.29v12.309c0 1.827-1.48 3.29-3.33 3.29h-.453c-1.85 0-3.33-1.463-3.33-3.29V72.756zm7.77 23.886c0 2.274-1.892 4.143-4.194 4.143s-4.193-1.869-4.193-4.143c0-2.275 1.891-4.144 4.193-4.144 2.302 0 4.193 1.869 4.193 4.144z"
+                                                    fill="#000" opacity=".4"></path>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                    <div class="b24-form-state-text">
+                                        <p>Форма не актуальна</p>
+                                    </div>
+                                </div>
+                                <div class="b24-form-inner-box"></div>
+                            </div>
+                        </div>
+                        <div class="b24-form-sign"><select style="display: none;">
+                                <option value="ru">
+                                    ru
+                                </option>
+                                <option value="pl">
+                                    pl
+                                </option>
+                                <option value="ua">
+                                    ua
+                                </option>
+                                <option value="lt">
+                                    lt
+                                </option>
+                                <option value="de">
+                                    de
+                                </option>
+                                <option value="en">
+                                    en
+                                </option>
+                                <option value="la">
+                                    la
+                                </option>
+                                <option value="br">
+                                    br
+                                </option>
+                                <option value="fr">
+                                    fr
+                                </option>
+                            </select>
+                            <span class="b24-form-sign-text">Заряжено</span>
+                            <span class="b24-form-sign-bx">Битрикс</span>
+                            <span class="b24-form-sign-24">24</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!--[if IE 8]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+    var FancyboxI18nClose = 'Закрыть';
+    var FancyboxI18nNext = 'Вперед';
+    var FancyboxI18nPrev = 'Назад';
+    var ajaxsearch = true;
+    var baseDir = 'https://interlogisticllc.com/';
+    var baseUri = 'https://interlogisticllc.com/';
+    var calcUrl = 'https://interlogisticllc.com/calculator/';
+    var contentOnly = false;
+    var currency = {"id":2,"name":"\u0414\u043e\u043b\u043b\u0430\u0440","iso_code":"USD","iso_code_num":"840","sign":"$","blank":"0","conversion_rate":"1.000000","deleted":"0","format":"1","decimals":"0","active":"1","prefix":"$ ","suffix":"","id_shop_list":null,"force_id":false};
+    var currencyBlank = 0;
+    var currencyFormat = 1;
+    var currencyRate = 1;
+    var currencySign = '$';
+    var displayList = false;
+    var highDPI = false;
+    var id_lang = 1;
+    var indexUrl = 'https://interlogisticllc.com/calculator/';
+    var prodUrl = 'https://interlogisticllc.com/calculator/';
+    var instantsearch = false;
+    var isGuest = 0;
+    var isLogged = 0;
+    var isMobile = false;
+    var page_name = 'cms';
+    var priceDisplayMethod = 0;
+    var priceDisplayPrecision = 0;
+    var quickView = false;
+    var roundMode = 2;
+    var static_token = '7029614db70fde701c908d974ec762f8';
+    var token = '242ca6babcdf8cae1e24aa4a6b9202d2';
+    var usingSecureMode = true;
+</script>
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script
+    src="https://code.jquery.com/jquery-migrate-3.3.2.min.js"
+    integrity="sha256-Ap4KLoCf1rXb52q+i3p0k2vjBsmownyBTE1EqlRiMwA="
+    crossorigin="anonymous"></script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+<script src="//code.jquery.com/jquery-1.12.4.js"></script>
+<script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script type="text/javascript" src="https://interlogisticllc.com/assets/front/dest/js/jquery.mask.min.js"></script>
+<script type="text/javascript" src="https://interlogisticllc.com/assets/front/dest/js/main.js"></script>
+<script type="text/javascript" src="https://interlogisticllc.com/assets/front/js/jquery/plugins/jquery.easing.js"></script>
+<script type="text/javascript" src="https://interlogisticllc.com/assets/front/js/tools.js"></script>
+<script type="text/javascript" src="https://interlogisticllc.com/assets/front/js/global.js"></script>
+<script type="text/javascript" src="https://interlogisticllc.com/assets/front/js/autoload/10-bootstrap.min.js"></script>
+<script type="text/javascript" src="https://interlogisticllc.com/assets/front/js/autoload/15-jquery.total-storage.min.js"></script>
+<script type="text/javascript" src="https://interlogisticllc.com/assets/front/js/autoload/15-jquery.uniform-modified.js"></script>
+<script type="text/javascript" src="https://interlogisticllc.com/assets/front/js/cms.js"></script>
+<script type="text/javascript" src="https://interlogisticllc.com/assets/front/js/index.js"></script>
+<script type="text/javascript" src="https://interlogisticllc.com/assets/front/js/modules/blocktopmenu/js/hoverIntent.js"></script>
+<script type="text/javascript" src="https://interlogisticllc.com/assets/front/js/modules/blocktopmenu/js/superfish-modified.js"></script>
+<script type="text/javascript" src="https://interlogisticllc.com/assets/front/js/modules/blocktopmenu/js/blocktopmenu.js"></script>
+<script type="text/javascript" src="https://interlogisticllc.com/assets/front/js/jquery/plugins/fancybox/jquery.fancybox.js"></script>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
