@@ -1,0 +1,66 @@
+mysql> REATE DATABASE example
+    -> CREATE DATABASE example;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'REATE DATABASE example
+CREATE DATABASE example' at line 1
+mysql> CREATE DATABASE example
+    -> CREATE DATABASE example;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CREATE DATABASE example' at line 2
+mysql> clear;
+mysql> clear
+mysql> CREATE DATABASE example;
+Query OK, 1 row affected (0.01 sec)
+
+mysql> CREATE DATABASE sample;
+Query OK, 1 row affected (0.01 sec)
+
+mysql> USE example;
+Database changed
+mysql> CREATE TABLE users (id SERIAL PRIMARY KEY, name VARCHAR(255) COMMENT 'Имя пользователя');
+Query OK, 0 rows affected (0.03 sec)
+
+mysql> exit
+Bye
+
+C:\Users\desktop.ua>mysqldump -u root -p example > sample.sql
+Enter password: *****
+
+C:\Users\desktop.ua>mysql -u root -p sample < sample.sql
+Enter password: *****
+
+C:\Users\desktop.ua>mysql -u root -p
+Enter password: *****
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 31
+Server version: 8.0.24 MySQL Community Server - GPL
+
+Copyright (c) 2000, 2021, Oracle and/or its affiliates.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> SHOW DATABASES;
++--------------------+
+| Database           |
++--------------------+
+| example            |
+| information_schema |
+| mysql              |
+| performance_schema |
+| sakila             |
+| sample             |
+| sys                |
+| world              |
++--------------------+
+8 rows in set (0.00 sec)
+
+mysql> DESCRIBE sample.users;
++-------+-----------------+------+-----+---------+----------------+
+| Field | Type            | Null | Key | Default | Extra          |
++-------+-----------------+------+-----+---------+----------------+
+| id    | bigint unsigned | NO   | PRI | NULL    | auto_increment |
+| name  | varchar(255)    | YES  |     | NULL    |                |
++-------+-----------------+------+-----+---------+----------------+
+2 rows in set (0.00 sec)
